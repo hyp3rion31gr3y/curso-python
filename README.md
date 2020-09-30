@@ -1,1 +1,1 @@
-'#; are used for comments in python
+'#' are used for comments in python
